@@ -1,0 +1,18 @@
+body{
+	font-family: 'Raleway';
+	margin: 50px;
+}
+.header{
+	
+	text-align: center;
+}
+
+h1{
+	color: blue;
+}
+/*.form-group{
+	margin: 50px;
+}*/
+.goalsTitle{
+	color: magenta;
+}
